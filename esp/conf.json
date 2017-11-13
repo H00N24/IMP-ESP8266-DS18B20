@@ -1,0 +1,7 @@
+{
+    "SSID": "IMP-TEST", 
+    "PASS": "!esp8266",
+    "NAME": "Senzor1",
+    "OVR": "1234",
+    "SERVER": ["10.42.0.1", 44444]
+}
